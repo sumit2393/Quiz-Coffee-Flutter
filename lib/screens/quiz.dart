@@ -62,7 +62,6 @@ class _QuizScreenState extends State<QuizScreen> {
                           setState(() {
                             selectedIndex = index;
                           });
-                          //   context.read<QuizBloc>().add(AnswerQuestion(index));
                         },
                         child: Text(
                           question.options[index],
