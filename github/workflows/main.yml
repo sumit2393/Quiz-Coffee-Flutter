@@ -1,4 +1,4 @@
-name: Flutter CI/CD
+name: quiz_app CI/CD Pipeline
 
 on:
   push:
